@@ -1,0 +1,9 @@
+{
+  "name": "webhook-mcp-worker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Webhook MCP worker for Cloudflare Workers (scaffold - implementation pending)",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  }
+}
